@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IntWallet/static/css/main.cfd7ee16.chunk.css",
+    "main.js": "/IntWallet/static/js/main.efa11265.chunk.js",
+    "main.js.map": "/IntWallet/static/js/main.efa11265.chunk.js.map",
+    "runtime-main.js": "/IntWallet/static/js/runtime-main.746f5b49.js",
+    "runtime-main.js.map": "/IntWallet/static/js/runtime-main.746f5b49.js.map",
+    "static/js/2.0c27903d.chunk.js": "/IntWallet/static/js/2.0c27903d.chunk.js",
+    "static/js/2.0c27903d.chunk.js.map": "/IntWallet/static/js/2.0c27903d.chunk.js.map",
+    "static/js/3.d36b18ea.chunk.js": "/IntWallet/static/js/3.d36b18ea.chunk.js",
+    "static/js/3.d36b18ea.chunk.js.map": "/IntWallet/static/js/3.d36b18ea.chunk.js.map",
+    "index.html": "/IntWallet/index.html",
+    "static/css/main.cfd7ee16.chunk.css.map": "/IntWallet/static/css/main.cfd7ee16.chunk.css.map",
+    "static/js/2.0c27903d.chunk.js.LICENSE.txt": "/IntWallet/static/js/2.0c27903d.chunk.js.LICENSE.txt",
+    "static/media/Logo.6b272d37.svg": "/IntWallet/static/media/Logo.6b272d37.svg",
+    "static/media/homeComp.0202d245.svg": "/IntWallet/static/media/homeComp.0202d245.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746f5b49.js",
+    "static/js/2.0c27903d.chunk.js",
+    "static/css/main.cfd7ee16.chunk.css",
+    "static/js/main.efa11265.chunk.js"
+  ]
+}
