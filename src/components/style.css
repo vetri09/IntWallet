@@ -1,0 +1,132 @@
+/* Navbar styles */
+.nav_bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    min-height: 80px;
+}
+.nav_bar li{
+    margin: 10px;
+}
+
+/* Coin.jsx style */
+.coin_container{
+    display: flex;
+    justify-content: center;
+}
+.coin_row{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 80px;
+    border-bottom: 2px solid black;
+    width: 900px;
+}
+.coin{
+    display: flex;
+    align-items: center;
+    padding-right: 30px;
+    min-width: 300px;
+}
+.coin_image{
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+.coin_name{
+    font-size: 16px;
+    width: 150px;
+}
+.coin_symbol{
+    text-transform: uppercase;
+}
+.coin_data{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.coin_price{
+    width: 110px;
+}
+.coin_volume{
+    width: 155px;
+}
+.red{
+    color: #f00606;
+}
+.green{
+    color: green;
+}
+
+/* Table styles */
+.table{
+    height: calc(100vh + -80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table_container{
+    max-width: 1300px;
+    margin: auto;
+    background-color: white;
+    color: #171717;
+    border-radius: 10px;
+    padding: 40px;
+}
+.table_head{
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.table_cart_link{
+    color: cornflowerblue;
+    font-size: 22px;
+    font-weight: 800;
+}
+.table_searchbox{
+    width: 300px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.table_search{
+    margin-bottom: 10px;
+}
+.table_input{
+    font-size: 16px;
+    outline: none;
+    width: 265px;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 2px;
+}
+.user_name{
+    background: -webkit-linear-gradient(#667eea, #764ba2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.coin_buy{
+    border: none;
+    color: white;
+    padding: 5px;
+    background-color: #667eea;
+}
+/* Cart.jsx styles */
+.cart_coin_row{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0px;
+}
+.cart_coin_img{
+    width: 40px;
+    height: 40px;
+}
+.cart_btn{
+    border: none;
+    color: white;
+    padding: 5px;
+    background-color: #667eea;
+}
