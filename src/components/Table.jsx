@@ -37,7 +37,7 @@ export default function Table(props) {
                 (
                     <>
                     <h2 className="table_head">Hello <span className="user_name">{props.data}!</span></h2>
-                    <p className="table_cart_link" onClick={handleCartClick}>Cart</p>
+                    <p className="table_cart_link" onClick={handleCartClick}>Cart({coin.length})</p>
                     <div className="table_searchbox">
                     <h1 className="table_search">Search a currency</h1>
                     <input className="table_input" type="text" placeholder='Search currency' onChange={handleChange}/>
